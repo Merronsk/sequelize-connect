@@ -1,0 +1,1 @@
+{"version":3,"sources":["../index.js"],"names":["module","exports","Connection"],"mappings":";;AACA;;;;;;AAEA;AACAA,OAAOC,OAAP,GAAiBC,oBAAjB,C,CAJA","file":"index.js","sourcesContent":["// Import Connect\r\nimport Connection from './src/Connection';\r\n\r\n// Export Connection\r\nmodule.exports = Connection;\r\n"]}
